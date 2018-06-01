@@ -1,38 +1,22 @@
 <!DOCTYPE html>
-{%- include snippets/get-lang.html -%}
-<html lang="{{ __return }}">
-  <head>
-    {%- include common-head.html -%}
-    {%- include head-icons-rel.html -%}
-    {%- assign __path = '/assets/css/blog.css' -%}
-    {%- include snippets/prepend-baseurl.html -%}
-    <link rel="stylesheet" href="{{ __return }}">
-    {%- include scripts/utils.html -%}
-  </head>
-  <body>
-    <div class="m-page-stage js-page-stage">
-      <div class="m-page-content">
-        {%- include components/header.html -%}
-        <div class="m-page-main">{{ content }}</div>
-      </div>
-    </div>
-    {%- include components/footer.html -%}
-    {%- include scripts/common.html -%}
-    {%- if page.layout == "home" -%}
-      {%- include scripts/home.html -%}
-    {%- elsif page.layout == "page" -%}
-      {%- include scripts/page-post.html -%}
-    {%- elsif page.layout == "post" -%}
-      {%- include scripts/page-post.html -%}
-      {%- include scripts/post.html -%}
-    {%- elsif page.layout == "all" -%}
-      {%- include scripts/all.html -%}
-    {%- endif -%}
-    {%- include utils/mathjax.html -%}
-    {%- include utils/mermaid.html -%}
-    {%- include utils/chart.html -%}
-    {%- if jekyll.environment != "development" -%}
-      {%- include utils/google-analytics.html -%}
-    {%- endif -%}
-  </body>
+<html lang="zh-CN">
+ <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate:160 }}{% else %}{{ site.description }}{% endif %}" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <link rel="shortcut icon" href="{{ site.url }}/images/logo.png" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/normalize.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/style.css" />
+ </head>
+ <body>
+  <header>
+   <a href="{{ site.url }}/"><img src="{{ site.url }}/images/logo.png" alt="{{ site.title }}" /><span>中国科学技术大学 Linux 用户协会</span></a>
+  </header>
+  {{ content }}
+ </body>
 </html>
