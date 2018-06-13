@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 服务器宕机通知
+image: http://hfs.mirrors.asia/829903743512ecd7eb17338c727c0282e34396afc0606752b80b1d479faa7c16?type=image/png
 author: hejiyan
 date: '2018-06-14 01:10:50 +0800'
 categories:
