@@ -9,7 +9,7 @@ categories:
 tags: []
 ---
 
-今天早些时候，由于我们的虚拟机 3 号宿主机的某些问题，LUG 内网包括网关与统一认证在内的部分关键服务器宕机，进而导致一部分服务不能正常提供，我们已经知悉并且开始处理这些问题。
+今天早些时候，由于我们的虚拟机宿主机 3 号节点的某些问题，LUG 内网包括网关与统一认证在内的部分关键服务器宕机，进而导致一部分服务不能正常提供，我们已经知悉并且开始处理这些问题。
 
 
 
@@ -19,12 +19,12 @@ tags: []
 - 网络加速服务：vpn.ustclug.org
 - 防污染 DNS
 - 主页 (wiki)：https://lug.ustc.edu.cn
-- [反向代理](https://lug.ustc.edu.cn/wiki/lug/services/revproxy)：*.proxy.ustclug.org
+- 反向代理：*.proxy.ustclug.org
 - VPN在线申请系统：[https://getvpn.ustclug.org](https://getvpn.ustclug.org/)
 - 轻量级网络加速服务：[https://light.ustclug.org](https://light.ustclug.org/)
 - 服务器统一认证：ldap.ustclug.org
 - 内网 VPN
-- [LUG FTP](https://lug.ustc.edu.cn/wiki/lug/services/ftp)：[https://ftp.ustclug.org](https://ftp.ustclug.org/)
+- LUG FTP：[https://ftp.ustclug.org](https://ftp.ustclug.org/)
 - Ganglia 监控：[https://status.ustclug.org](https://status.ustclug.org/)
 - LDAP配置管理系统（GOSA2）
 
@@ -34,7 +34,6 @@ tags: []
 
 - 开源镜像站（HTTP 访问）：https://mirrors.ustc.edu.cn
 - 开源镜像站（定时同步；rsync、FTP访问；帮助页面）：[https://mirrors.ustc.edu.cn](https://mirrors.ustc.edu.cn/)
-
 - 权威DNS：ns-a.ustclug.org. ns-b.ustclug.org.
 - 网络启动：pxe.ustc.edu.cn
 - 图书馆透明计算系统
