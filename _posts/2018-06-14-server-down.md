@@ -9,6 +9,25 @@ categories:
 tags: []
 ---
 
+**2018-06-15 UPDATE2**: 
+
+目前以下服务已经恢复正常：
+
+- 主页 (wiki)：[https://lug.ustc.edu.cn/](https://lug.ustc.edu.cn/) （已恢复）
+- 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/) （已恢复，https 暂不可用）
+- LUG FTP：[https://ftp.ustclug.org/](https://ftp.ustclug.org/) （已恢复）
+
+由于网络架构的变化，部分服务需要您的 DNS 缓存过期后得到新的解析结果才能生效，这依赖于您的网络环境，您也可以尝试手动刷新缓存。维护期间服务的稳定性有下降，这是正常现象，如果您在使用中持续遇到问题，请联系我们。
+
+从数据备份中恢复数据并没有计划中的这么一帆风顺，我们仍在努力恢复受影响的各项服务，接下来的工作计划是按照以下顺序继续恢复服务：
+
+- 反向代理：*.proxy.ustclug.org
+- 网络加速服务：vpn.ustclug.org
+- VPN 在线申请系统：[https://getvpn.ustclug.org/](https://getvpn.ustclug.org/)
+- 轻量级网络加速服务：[https://light.ustclug.org/](https://light.ustclug.org/)
+
+给您带来的不便敬请谅解。
+
 **2018-06-14 UPDATE1**: 
 
 初步的调查结果显示，此次宕机事件原因是虚拟机宿主机 3 号节点上的一块年代久远的硬盘因为老化或其他原因出现问题，导致该节点上运行的虚拟机全部宕机，并且导致该节点也无法被虚拟机集群控制，其上运行的虚拟机亦无法直接的迁移。
@@ -25,16 +44,16 @@ tags: []
 
 以下服务因为此事件暂时不能正常运行，正在抢修中：
 
-- 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/)
+- 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/) （已恢复）
 - 网络加速服务：vpn.ustclug.org
 - 防污染 DNS
-- 主页 (wiki)：[https://lug.ustc.edu.cn/](https://lug.ustc.edu.cn/)
+- 主页 (wiki)：[https://lug.ustc.edu.cn/](https://lug.ustc.edu.cn/) （已恢复）
 - 反向代理：*.proxy.ustclug.org
 - VPN 在线申请系统：[https://getvpn.ustclug.org/](https://getvpn.ustclug.org/)
 - 轻量级网络加速服务：[https://light.ustclug.org/](https://light.ustclug.org/)
 - 服务器统一认证：ldap.ustclug.org
 - 内网 VPN
-- LUG FTP：[https://ftp.ustclug.org/](https://ftp.ustclug.org/)
+- LUG FTP：[https://ftp.ustclug.org/](https://ftp.ustclug.org/) （已恢复）
 - Ganglia 监控：[https://status.ustclug.org/](https://status.ustclug.org/)
 - LDAP 配置管理系统（GOSA2）
 
