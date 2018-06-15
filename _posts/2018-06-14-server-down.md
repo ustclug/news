@@ -14,7 +14,7 @@ tags: []
 目前以下服务已经恢复正常：
 
 - 主页 (wiki)：[https://lug.ustc.edu.cn/](https://lug.ustc.edu.cn/) （已恢复）
-- 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/) （已恢复，https 暂不可用）
+- 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/) （已恢复，建议用户切换新地址：git.lug.ustc.edu.cn）
 - LUG FTP：[https://ftp.ustclug.org/](https://ftp.ustclug.org/) （已恢复）
 
 由于网络架构的变化，部分服务需要您的 DNS 缓存过期后得到新的解析结果才能生效，这依赖于您的网络环境，您也可以尝试手动刷新缓存。维护期间服务的稳定性有下降，这是正常现象，如果您在使用中持续遇到问题，请联系我们。
