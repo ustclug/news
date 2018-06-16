@@ -9,6 +9,17 @@ categories:
 tags: []
 ---
 
+**2018-06-16 UPDATE3**:
+
+目前以下服务已经恢复正常：
+
+- 主页 (wiki)：[https://lug.ustc.edu.cn/](https://lug.ustc.edu.cn/) （已恢复）
+- 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/) （已恢复，建议用户切换新地址：git.lug.ustc.edu.cn）
+- LUG FTP：[https://ftp.ustclug.org/](https://ftp.ustclug.org/) （已恢复）
+- 反向代理：*.proxy.ustclug.org （已恢复）
+
+如果您使用上述服务时遇到问题，请向我们反馈。
+
 **2018-06-15 UPDATE2**: 
 
 目前以下服务已经恢复正常：
@@ -48,7 +59,7 @@ tags: []
 - 网络加速服务：vpn.ustclug.org
 - 防污染 DNS
 - 主页 (wiki)：[https://lug.ustc.edu.cn/](https://lug.ustc.edu.cn/) （已恢复）
-- 反向代理：*.proxy.ustclug.org
+- 反向代理：*.proxy.ustclug.org （已恢复）
 - VPN 在线申请系统：[https://getvpn.ustclug.org/](https://getvpn.ustclug.org/)
 - 轻量级网络加速服务：[https://light.ustclug.org/](https://light.ustclug.org/)
 - 服务器统一认证：ldap.ustclug.org
