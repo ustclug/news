@@ -72,23 +72,23 @@ comments:
 投票总票数 = 158 票
 ```
 
-![（问卷星投票和BBS投票的总和）](http://hfs.mirrors.asia/02fe81c6dd2cce1b861de844b3016f8f744eac505b2d34f5e0b63fafac34f435?type=image/png)
+![（问卷星投票和BBS投票的总和）](https://ftp.ustclug.org/wp-content/uploads/2015/05/合集.png)
 
 # 2015 版衫效果图
 
 根据投票结果，今年的版衫采用方案三和方案四的组合，经过和商家、设计作者ewind的交流，最后的版衫设计稿是这样：
 
-![](http://hfs.mirrors.asia/e623cf72bf53d32a5e6ce35edbfeabd5bf53a757b8167d80e46b9881c15c0668?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-03.jpg)
 
-![](http://hfs.mirrors.asia/86f25fbee824646bdf6be2e33bad79f2e3703531f1b9ce93fc2c9034939570fa?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-05.jpg)
 
-![](http://hfs.mirrors.asia/52f49a21e4438124feaf2b23e85a94230c28600330b0963d7a82b62254a64b77?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-01.jpg)
 
-![](http://hfs.mirrors.asia/07b06f2e5635d6cd746f7b5de21d845993a65656d71063c57367008f6242fa38?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-04.jpg)
 
-![](http://hfs.mirrors.asia/2de081ad7c93f2bf823fc71c561b1034e342d6920f77a2e61b6df0dacc749a68?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-02.jpg)
 
-![](http://hfs.mirrors.asia/9912c8f81d9d41ebfbc3d68cedba7ce78484bf7c79bc260aa489c7663a0ef35b?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/中科效果图-2-大-06.jpg)
 
 有两点需要注意：
 
@@ -122,7 +122,7 @@ comments:
 
 1、【颜色问题】我们一种有5种颜色！下图最右边有四种可选颜色
 
-![](http://hfs.mirrors.asia/317583056fd2edb240639ec7e86f03b05a82d8f1174dde7f534a2ba353036013?type=image/png)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/QQ图片20150529131345.png)
 
 2、【快递问题】
 
@@ -130,9 +130,9 @@ A）如果你不在科大，可以在TEEKER网站预定时候，务必填上真�
 
 B）如果你在科大，在TEEKER网站预定时候，直接选 中科大Linux用户协会免费配送。那么你将无需登录，配送方式记得选【免费配送】。
 
-![](http://hfs.mirrors.asia/a43073327d44eb8afcd646548b7b88bdb315263c4c6e20c092553740c84df38d?type=image/png)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/QQ图片20150529120521.png)
 
-![](http://hfs.mirrors.asia/717101c4ef643c8a58cfb96aca1d23f432acd91f3181c8f365938855e79232eb?type=image/png)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/QQ图片20150529120843.png)
 
 3、【尺码问题】
 

@@ -55,7 +55,7 @@ comments:
 
 作者：zhaochi 图片：正面图
 
-![](http://hfs.mirrors.asia/7d0fb7f51c9413a65ac2190fb39944709e7f4499eec7accdddab9aee3f4acb6e?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/Mydesign.jpg)
 
 ## 方案二
 
@@ -63,37 +63,37 @@ comments:
 
 github commit style
 
-![](http://hfs.mirrors.asia/ffab24fc20ac1625ed43ac4d769233ab0908836f66188e76e774bbf21de100fd?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/0520-正面成品-sm.jpg)
 
-![](http://hfs.mirrors.asia/a8ef273220709a661bc69e2fd70088fee9ee3d587477d407357c52b02d1cd379?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/0520-背面成品-sm.jpg)
 
-![](http://hfs.mirrors.asia/724a2b15c57c72d46dde9520e73ddf7388e0dea6e73c47d12fcc458d0aae37f9?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/0520正面图-sm.jpg)
 
-![](http://hfs.mirrors.asia/a189df494f6b461c5a21346d5d8f02d146440783b7bad8df59c1987dee1d1baa?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/0520背面-sm.jpg)
 
 ## 方案三
 
 作者：ewind 图片：正面效果图
 
-![](http://hfs.mirrors.asia/14080533f3adb102743a617910959dd48a1b0c3c4f2d2b5f687a17bb2eadcd7c?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-1-demo.jpg)
 
 # 方案四
 
 作者：ewind 图片：背面效果图
 
-![](http://hfs.mirrors.asia/94b27b948f925464c67f41cf6d469d8617ac496c618f613b46d195686e646214?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-4-demo.jpg)
 
 # 方案五
 
 作者：ewind 图片：正面效果图
 
-![](http://hfs.mirrors.asia/3c627e81e152664733dc5339953a7ea8cb816c1224575aabac3c9700c9348121?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-5-demo.jpg)
 
 # 方案六
 
 作者：ewind 图片：背面效果图
 
-![](http://hfs.mirrors.asia/63d5db2d04f70ac280367bbba1df984f033fa0289cbbc750a82b1b12287fa701?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-3-demo.jpg)
 
 编者注：这个背面图打印的面积比较大，可能需要3个版....
 
@@ -101,7 +101,7 @@ github commit style
 
 作者：ewind 图片：正面效果图
 
-![](http://hfs.mirrors.asia/28783f7de450fcddcd20b10eb6e3461f11b3df1a50e05582e5bda25a8ec8a405?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-2-demo.jpg)
 
 # 投票链接
 

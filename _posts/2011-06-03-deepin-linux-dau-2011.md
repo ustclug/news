@@ -49,191 +49,191 @@ comments:
 
 这些是会场上的一些照片。（大家能否给我推荐个显示图片的插件？可以显示图片总数和当前图片编号的？）
 
-![](http://hfs.mirrors.asia/59faeddd901f5dc6697c06007194655d52a4c91ddbacb5cc48e121ccf35d4160?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281991.jpg)
 
-![](http://hfs.mirrors.asia/06de48077bf53b245810bdc3d33ddd1cccfc304acc65802e55a3e83a4bb0670c?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281936.jpg)
 
-![](http://hfs.mirrors.asia/511a55bca49eea4bb053a53269f17fe3bbcd4a2f7af24548227e1872654ea082?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281930.jpg)
 
-![](http://hfs.mirrors.asia/8dd47e24f09f2645c2b666cde63028b712b6f1d098e18c3aa04e86fdefd4b0f4?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281963.jpg)
 
-![](http://hfs.mirrors.asia/b65fb18a05c6ab5e72e0367e7f252c697dea6919be1f9e2574090942e4195ca8?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00502.jpg)
 
-![](http://hfs.mirrors.asia/1002e3bebaea7688e6db69448f33f93a5be6af44a2e0c2fdbcfe7ead75c2fcdb?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281964.jpg)
 
-![](http://hfs.mirrors.asia/007ea2eb3402a0f32d16cbe260eced7ba48cc3acdaa610669e448d46d5b6f635?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281940.jpg)
 
-![](http://hfs.mirrors.asia/64a1ba7d93a93bbc6f6e1663db248c41b789eeba6151b058e195cea98d730a1a?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282084.jpg)
 
-![](http://hfs.mirrors.asia/a0d7fd9ae0b95129ecc32b986011b3e3161bba4b8ba68c3d386f8009465264c2?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281939.jpg)
 
-![](http://hfs.mirrors.asia/986a9ab91308b137be84291f7836dac1414ef473e9855efd1daed439615451ee?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282082.jpg)
 
-![](http://hfs.mirrors.asia/d7b22e830fab8c898745d558402419c62c6fdd34f033038d6815c73e32fc97f0?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282113.jpg)
 
-![](http://hfs.mirrors.asia/46f0b8f0ead3bfc352a9fb1b66eb476c8119ef8f7a721f21ad24d13679045f62?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282104.jpg)
 
-![](http://hfs.mirrors.asia/1279fb1aeb705c794eb9cb1e28594c38c61d3508de90f6ba5e759fad4a22a9b5?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282077.jpg)
 
-![](http://hfs.mirrors.asia/0f9aa09f31feebb4f894abc81bf180274b47a06d856537a640a0f559a9dcacc6?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281943.jpg)
 
-![](http://hfs.mirrors.asia/6a9b4def0aaf9e4e845c5f0d80696f742c8343b602dfaf7333d499be77addf16?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282063.jpg)
 
-![](http://hfs.mirrors.asia/28429b845f627aedb2c16ee8f71632b15a3a7f9d54a7eeb20ecc3eb52afbd814?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282121.jpg)
 
-![](http://hfs.mirrors.asia/9fac5c609d90f1bb67727e599e0dbc9d2f6b3e4bdbd5146ef9072aef655a88df?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282147.jpg)
 
-![](http://hfs.mirrors.asia/7a9dfcaaa6b4437077e68b5990808ab5df4b355ddf07eda83fc9fcd279ff422b?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281992.jpg)
 
-![](http://hfs.mirrors.asia/b5bf8ff34da438d39734ae25f06ef405c0215d9d89d7a04005904588b4e408d8?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281865.jpg)
 
-![](http://hfs.mirrors.asia/2d9a7c95c1c7cb8160b60332474acbcd64bf812b77c602abd0a9b4aba9279461?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281959.jpg)
 
-![](http://hfs.mirrors.asia/13ec0f5359b0c4b4ea6f558960547fd167af68c73c05ac6d1c70f43bb0c52535?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282041.jpg)
 
-![](http://hfs.mirrors.asia/0a0b986a49ec51f90cc7933dfd61181a11339d9856d9b0a73abc871fc6c2d31b?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281961.jpg)
 
-![](http://hfs.mirrors.asia/1ffa9b92a002eb4d97404171e07b98ea96c22edf115b54bda2339bba91ac18d2?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281974.jpg)
 
-![](http://hfs.mirrors.asia/33821d02062d63248cf0e4bd105168e5686f1ad8a3ef63e7607e64c6d2cf1b10?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282093.jpg)
 
-![](http://hfs.mirrors.asia/8a85b34b04c8931525a9639344e596d8b6b77f0d59c2488d9f9976146f8b597d?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282071.jpg)
 
-![](http://hfs.mirrors.asia/f15bf6cb485a3fe2b14ae300febbb33ff1a8e184bde2e4fb9d7ce6f71c6cbd5e?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282008.jpg)
 
-![](http://hfs.mirrors.asia/275f05e8c4e7bd58353f5df32619684b7f18f5c5c67825cd8e33b4f05aa4dc82?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282102.jpg)
 
-![](http://hfs.mirrors.asia/af2e292e88737d7c161c5f2882fa6494dbeead1d1140c8e0641f6a3edadfe447?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281956.jpg)
 
-![](http://hfs.mirrors.asia/82621bbf5a0a0d0062541ffe28070e65deb9add0834785fcc73b302c76712b98?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281932.jpg)
 
-![](http://hfs.mirrors.asia/6ee55a74b7a9af36e77a3d292391a075c6d8ad8bea3ea0fdc4c055abc0755197?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281886.jpg)
 
-![](http://hfs.mirrors.asia/802953dbe1b5aac9b80af0e4e7c469090978ed8c17dfb2ca9ece3589a0a30222?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282074.jpg)
 
-![](http://hfs.mirrors.asia/71346b03dce63e3eaa1223e385913f6d1dede4f7fb0eeaf26222b83b63eab9e8?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282112.jpg)
 
-![](http://hfs.mirrors.asia/616df3c0d344d173cfa7e96f89bac41c416e35bc18a26b11c58ae05951b1f6bb?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282066.jpg)
 
-![](http://hfs.mirrors.asia/b9648193b01615f938767d82855c53107775136f4ee784745c780d86dcd7fc01?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281978.jpg)
 
-![](http://hfs.mirrors.asia/86349057336e48c505f277784eaa87fc88ef6e048641d5cb6911c81a5012fde1?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282081.jpg)
 
-![](http://hfs.mirrors.asia/b226aeca0ddd999706e5c418f82904f1590b1457a53601c5cfeb948cf66e4571?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282148.jpg)
 
-![](http://hfs.mirrors.asia/ebd5a8b5311643445c0ea1e5316686d91515a8f7e0589da7fea5fa857340838e?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281949.jpg)
 
-![](http://hfs.mirrors.asia/4db377e559204b8b9174c8fef27991714ee2ba35b6e16d25ed2529b6e1c3fa28?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281955.jpg)
 
-![](http://hfs.mirrors.asia/1697ba92e3a3d511e0e89b2d4648a53241db279e3075423269ec8c37c56e1d35?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281917.jpg)
 
-![](http://hfs.mirrors.asia/7db4a087d4e923bd9c8959b8d26a448850d47ddbc477ca9aa425bfac2b560287?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282052.jpg)
 
-![](http://hfs.mirrors.asia/38115debba92129b5b0311024ab611af7036a0ef67a1a3e7c1ab61c2bba2f47c?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00450.jpg)
 
-![](http://hfs.mirrors.asia/b70bc67c98522ee68a2fcaef5f496f2356381222edc8c933ae1e15ea62a385e1?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00474.jpg)
 
-![](http://hfs.mirrors.asia/c36d6d623110f5d5ff04c45f4b66fc36ba8e81f4f91a08b0b8c5368791e0e5cb?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282143.jpg)
 
-![](http://hfs.mirrors.asia/a8e0682c121abb3f1c3a48e71bc3d1bb006cf290007d7b995e01fe2cd5dbbf27?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282083.jpg)
 
-![](http://hfs.mirrors.asia/f925fed64d14c582ab8335ab0c4f6d4a8bad5af9011f301a1d2dcf877fb1370b?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281864.jpg)
 
-![](http://hfs.mirrors.asia/17e8c9952a9f3809668b3ecb1f75b4311d2c5ce30e87e3a431563d7ae9265217?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282078.jpg)
 
-![](http://hfs.mirrors.asia/796b124d6f4dd609b9a221417f73df28d2e3fe03387fd9176e8a9ef544c927cb?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281996.jpg)
 
-![](http://hfs.mirrors.asia/b9e043b76e75465d46ddb9cc228b91110419fc2eea64796bc083dca9930d2259?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00454.jpg)
 
-![](http://hfs.mirrors.asia/980a8e32bc3ed691d4f6acbe44b11eabf2f1e4885d83e399dae29111229853a8?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281860.jpg)
 
-![](http://hfs.mirrors.asia/49abd0f3944d1629ce5b3854fccbe200a0653e4e049ae64271f5bd12a3379a12?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281989.jpg)
 
-![](http://hfs.mirrors.asia/1fefbc1195c37aa255998f578eee0ee4ae85663857f54a58b37906761df649f8?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281951.jpg)
 
-![](http://hfs.mirrors.asia/a3f5099d74d0d07698360fd795ba0ae1dd2ab863462df24e8d73829008ed9f45?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282072.jpg)
 
-![](http://hfs.mirrors.asia/fdfc434a588b6a57ae29860f9e0f20cd6dcd3081c4bebd6320f8ca26218e3aa4?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281970.jpg)
 
-![](http://hfs.mirrors.asia/103f35ce53df1b77ae423ccb41422fb42962468a7e50cbeab36de1b44d3e06fa?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282006.jpg)
 
-![](http://hfs.mirrors.asia/1139eec75f6f552325658d2478bf6dcdff221582cf5ce75053bc24ad53931d49?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282140.jpg)
 
-![](http://hfs.mirrors.asia/cc1f9e6bc72061f9bd64c1c46bc77cce1bc9f43a3700c2def893816634e97a02?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281895.jpg)
 
-![](http://hfs.mirrors.asia/d332d97a6a3b47c7a1c71faa8804724cd598e2a6d94ec59bb1e078b0fecadd5b?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281847.jpg)
 
-![](http://hfs.mirrors.asia/2edb299e2165f0ac4cdb0ff5254667d96bbec3d3893a511980b690e9d91776ac?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281832.jpg)
 
-![](http://hfs.mirrors.asia/99e53f699b7c698e59e97738c66d450cfd757eead5ca52a5ba8d34bd814ee998?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282133.jpg)
 
-![](http://hfs.mirrors.asia/3e9ccebe7b9c8da836413475a9c96a91290e240622bf5caaa830ceaca3a18c93?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282059.jpg)
 
-![](http://hfs.mirrors.asia/0513cae782c179ad1389a26d0ed0b2c03ca53aaba638df8e393877b2d1c59241?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00452.jpg)
 
-![](http://hfs.mirrors.asia/bb539ed54a96006b810d73f1b835d6b42e249410d04ac47a902dddcd28e59fdb?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282137.jpg)
 
-![](http://hfs.mirrors.asia/3bf917278116919c78f56a0a8a5629689703ccebfeeae184a4f525c817a11a5e?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281891.jpg)
 
-![](http://hfs.mirrors.asia/ccb3c733a3a1c8f488c4169ceef591aa34184c1a75a9dfde2e424eace419f43d?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00491.jpg)
 
-![](http://hfs.mirrors.asia/9cc6536013217f5062db4c080481b9c006806edbf20b3257e058c65d4fcd4058?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282080.jpg)
 
-![](http://hfs.mirrors.asia/02323b7473b18d407683867ff764a00e4520b0da5fba3730620dfcb3f3717e4e?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281931.jpg)
 
-![](http://hfs.mirrors.asia/7bbad9e7f9b0f5dea15e527264b11dafabcf2727710da0fec13290546e90e84d?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282111.jpg)
 
-![](http://hfs.mirrors.asia/1d27b8730f771fb9b5566784d307937d9c59d8d160300773905560d61f8d9306?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282134.jpg)
 
-![](http://hfs.mirrors.asia/32380d2accc546c9d0734a75e9d4e1907d4973342aa9443d84c81650610b7eeb?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281929.jpg)
 
-![](http://hfs.mirrors.asia/973f75809a0ceaf79947de188c7033bebeb9aef88253246306622f1a0ac8bb39?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281954.jpg)
 
-![](http://hfs.mirrors.asia/71809c0f6c325ab7e2d16697671af36f332bbe2dda8489ab32c2baf79021c13c?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282033.jpg)
 
-![](http://hfs.mirrors.asia/c0eb52cbb9987f2eaee5fd46c46d67c2f6aa2e678817b8ad4a13e4ea7476df50?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282062.jpg)
 
-![](http://hfs.mirrors.asia/75dec204648ff07f2b1558cf19a5d034e06e25fadde464591fb304dab4989b84?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282087.jpg)
 
-![](http://hfs.mirrors.asia/e15b5c01aaf34920748a81f795321935af90349c00d4fe3a4066f241c5fea212?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282144.jpg)
 
-![](http://hfs.mirrors.asia/7bfcb4e21a64712dafe2aa5d3732707e2e6dbf986e76c02f143d7a28626a7531?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281881.jpg)
 
-![](http://hfs.mirrors.asia/982bdf87f02fcef116c18373de6c33b1d5b658d175fbab7dff77d730591a5892?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00448.jpg)
 
-![](http://hfs.mirrors.asia/46e8ac6d98a745c85425f7cb19319b0c78c66f6fc889f6ff8f847c3af2cf6304?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282098.jpg)
 
-![](http://hfs.mirrors.asia/fdcc238dcb5690e390d5d9ca8dd78a9a8b2f5c4996b3217ec4a75bbd7d763f05?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282089.jpg)
 
-![](http://hfs.mirrors.asia/33c7ccb9ebe74f59fc7f01ef29092eb3ea55fd9ce3db47186c68a536e89b02f5?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282061.jpg)
 
-![](http://hfs.mirrors.asia/bc3554a23e711df219b8513d4159c50d916e59efbf516c8cbab3aa990062d6c3?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282068.jpg)
 
-![](http://hfs.mirrors.asia/21beb632c02b208df6dfab74f3c40baae9a214bb39fefe64e68d4fb81b18a65a?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282067.jpg)
 
-![](http://hfs.mirrors.asia/edf608715f82d7ed1c4ed47b94a13bb95e297bbdfeda23d8793f5d608b54482d?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282146.jpg)
 
-![](http://hfs.mirrors.asia/6fd46b098a595922017a516fa606498a3fbf6934d775205d9be8685154f68813?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00498.jpg)
 
-![](http://hfs.mirrors.asia/a78b8793d67a66f6db71e50ca16b08635f234c386e00073cd5da61db25d9ce83?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282138.jpg)
 
-![](http://hfs.mirrors.asia/6b23f0d4141d36228fd1f747ec24c78f83a8be59d08e996df603640dea9cbe00?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281965.jpg)
 
-![](http://hfs.mirrors.asia/4ed97e9d2723ac2c0fd2b8bfac81898c71c38fd255ea3dfa90c6f1bec114d5ee?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281934.jpg)
 
-![](http://hfs.mirrors.asia/e2a479f56be7f2924a84e191b55d3b244494072ae11731b0b8ddaec11e81ebf3?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281987.jpg)
 
-![](http://hfs.mirrors.asia/2b027a5335635a16e493e2ff0ff330554ba884ac0e546f1f6e8739210e73f5b2?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281928.jpg)
 
-![](http://hfs.mirrors.asia/b3274946e36ec140de5c95a6037843faf52650661afb0f14b907653537e7f8c8?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282064.jpg)
 
-![](http://hfs.mirrors.asia/65dff1c159214e0f124cac2912a9955eeb5a1367999853dea45d5ba13978cca0?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282120.jpg)
 
-![](http://hfs.mirrors.asia/18f234c2b6f9f409dd790a0e80738d76da010e3fba5ed1cb38149eb4569d838d?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281933.jpg)
 
-![](http://hfs.mirrors.asia/db36ecc1cf51030fdc7528c811c5a3bb8b5f9da5e0fc6e7b62b12acf967cc68c?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282065.jpg)
 
-![](http://hfs.mirrors.asia/27d388d6fb2a3b37205b52e6712333825063958e5c4c4f1633d672b6c0680b12?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281866.jpg)
 
 # 相关报导
 

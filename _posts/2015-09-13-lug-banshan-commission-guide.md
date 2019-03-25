@@ -111,8 +111,8 @@ LUG 博客：[方案整理](https://lug.ustc.edu.cn/blog/2015/05/2015-linux-user
 
 LUG主页banner：
 
-![](http://hfs.mirrors.asia/296becb8243ee322547da706f4032df507aad6904f9fdd33627102fc58256923?type=image/png)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/09/banshan-banner.png)
 
 BBS进版poster：
 
-![](http://hfs.mirrors.asia/77a79fe439b386845ccff5ee678518368c06e2f0b05ce07f7cbb8c08065cbdad?type=image/jpeg)
+![](https://ftp.ustclug.org/wp-content/uploads/2015/09/banshan-poster-1.jpg)

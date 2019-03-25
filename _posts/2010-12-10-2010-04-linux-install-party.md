@@ -12,7 +12,7 @@ tags:
 comments: []
 ---
 
-![海报](http://hfs.mirrors.asia/e9fcecf67dbc74cb6de3df72d15244e6bf5819fa5c23569b4ef6aa30fb924461?type=image/jpeg)
+![海报](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/950cd675d89349bfde790313dcfc67f0-media_-750x400.jpg)
 
 Linux Install Party是中国科学技术大学Linux用户协会一年一度举办的活动，主旨在于推广和安装Linux，宣传和鼓励开源和自由软件精神。本次Linux Install Party主题是“草根低碳”。“草根”反映Linux目前已经逐渐平民化的特征，人们往往以为Linux是一个很高深的东西，这次party就是要把Linux带到同学们的身边。“低碳”反映了Linux创新的安装方式，以往安装Linux需要刻录光盘，费时费力不环保，这次party将宣传USB安装和网络安装的方法。本次活动可以让同学们亲身“无痛”体验到Linux，同时获得Linux的相关知识，并在安装Linux环节有专人指导。
 
@@ -30,18 +30,18 @@ Linux Install Party是中国科学技术大学Linux用户协会一年一度举�
 
 以下是活动现场的照片：
 
-![祝元宠介绍Linux发行版](http://hfs.mirrors.asia/050768c1a25a4ce156b0b21ee9f7269e2871e612077f41f91bd9bb5d93dbb32d?type=image/jpeg)
+![祝元宠介绍Linux发行版](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/0e477596eb5207a03450ba42380e3029-media_-900x569.jpg)
 
-![顾昊主持活动](http://hfs.mirrors.asia/3e26470d816656f34867e95b1f9672b4000f5f5dfdbe67d4a6752e30bb8721bc?type=image/jpeg)
+![顾昊主持活动](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/25c97261058603def86ce06eb7658ee5-media_-900x675.jpg)
 
-![张成介绍PXE系统](http://hfs.mirrors.asia/97521c40f1ad1a1421128eaa7a67f8342274d3e775558219b73d64505a679320?type=image/jpeg)
+![张成介绍PXE系统](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/412c3e1c3deee95e4ef420eeab5ca5d9-media_-900x675.jpg)
 
-![现场安装Linux](http://hfs.mirrors.asia/48ba77eda9293a419359cc3cfda0b00ffa2a34e84979fd977289a04aacffa3f9?type=image/jpeg)
+![现场安装Linux](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/48cdecdf722670c42569c24aaaafee69-media_-900x675.jpg)
 
-![横幅](http://hfs.mirrors.asia/7a7d0c53ff4c681df1e0cf3ee9edc89a82d47ca91d06717828deb940baad95af?type=image/jpeg)
+![横幅](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/banner.jpg)
 
-![张昊翀介绍Linux安装相关知识](http://hfs.mirrors.asia/c07e678cc72ca8076e21c13adf3f81a4d56f5a79ef922bb2279c618e1c64ff92?type=image/jpeg)
+![张昊翀介绍Linux安装相关知识](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/d2c6410dcb7985e82d6c2b1ea489805c-media_-900x675.jpg)
 
-![礼物](http://hfs.mirrors.asia/66a1f94db4eab8a52599ccf6d70f17ecb32cb2beaeb8aa1b7cc17d9dfbb1da72?type=image/jpeg)
+![礼物](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/deeef91b86a84755ba62acb543ac1871-media_-900x675.jpg)
 
-![活动现场](http://hfs.mirrors.asia/6622009a63b67470f260513fb0978d2f93897dd5040ec03e31be6c587d0ee725?type=image/jpeg)
+![活动现场](https://ftp.ustclug.org/wp-content/gallery/2010-10-linux-install-party/dfa67b538de5e8623615de03777102c7-media_-900x675.jpg)
