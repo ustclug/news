@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LUG 财务</title>
+    <link rel="stylesheet" href="https://unpkg.com/normalize.css@8.0.1/normalize.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/tables-min.css">
+    <style>
+        .donate-amount {
+            text-align: right;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script>
+        function getXMLHttpRequest() {
+            let xmlHttp = null;
+            try { xmlHttp = new XMLHttpRequest(); }
+            catch (e) {
+                try { xmlHttp = new ActiveXObject('Msxml2.XMLHTTP'); }
+                catch (e) { xmlHttp = new ActiveXObject('Microsoft.XMLHTTP'); }
+            }
+            return xmlHttp;
+        }
+    </script>
+</head>
+<body>
+<h1 id="donates"><a href="#donates">捐赠记录</a></h1>
+<p>
+    捐赠方式请见 <a href="https://lug.ustc.edu.cn/wiki/lug/finance/donate">LUG 官网</a>。
+    本页记载 2018 年换届后的捐赠记录，根据 LUG 财务报告自动生成。
+    之前的记录见<a href="https://lug.ustc.edu.cn/wiki/lug/finance/donate_log">历史存档</a>。
+</p>
+<div id="app">
+    <table class="pure-table pure-table-horizontal">
+        <thead>
+            <tr>
+                <th>日期</th>
+                <th>捐赠者</th>
+                <th>数额</th>
+                <th>用途</th>
+            </tr>
+        </thead>
+        <tbody v-if="donates === undefined">
+            <tr>
+                <td colspan="4">正在加载……</td>
+            </tr>
+        </tbody>
+        <tbody v-else>
+            <tr v-for="donate in donates">
+                <td class="donate-date">{{ donate.date }}</td>
+                <td class="donate-payee">{{ donate.payee }}</td>
+                <td class="donate-amount">{{ donate.amount }}</td>
+                <td class="donate-account">{{ donate.account }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<script>
+    app = new Vue({
+        el: '#app',
+        data: {
+            donates: undefined,
+        },
+        mounted: function () {
+            let xmlHttp = getXMLHttpRequest();
+            xmlHttp.open('GET', 'https://ustclug.github.io/ledger/donates.txt');
+            xmlHttp.onreadystatechange = function() {
+                if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
+                    app.donates = [];
+                    let lines = xmlHttp.responseText.trim().split('\n');
+                    for (let i = 0; i < lines.length; i++) {
+                        let donate = JSON.parse(lines[i]);
+                        if (donate.payee.endsWith('捐款'))
+                            donate.payee = donate.payee.slice(0, -2).trim();
+                        if (donate.account.startsWith('收入:捐赠:'))
+                            donate.account = donate.account.slice(6);
+                        app.donates.push(donate);
+                    }
+                }
+            };
+            xmlHttp.send();
+        },
+    });
+</script>
+</body>
+</html>
