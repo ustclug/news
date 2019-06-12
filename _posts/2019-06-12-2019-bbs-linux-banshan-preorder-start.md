@@ -47,7 +47,7 @@ tags:
 - 按照投票人数估计，单件制作成本约为 50 元，如因预定数量提高，单件价格最终低于50元，则**结余资金将作为 USTCLUG 社团经费，并公开使用情况**；
 - 任何问题请及时通过 goods@ustclug.org 和我们联系，**预定截止后恕不接受退款**。
 
-**预定方式：点击链接 [https://www.wjx.cn/jq/41165916.aspx](https://www.wjx.cn/jq/41165916.aspx) 填写，或<span style="color:cyan">扫描以下二维码</span>预定。**
+**预定方式：点击链接 [https://www.wjx.cn/jq/41165916.aspx](https://www.wjx.cn/jq/41165916.aspx) 填写，或[扫描以下二维码]()预定。**
 
 ![表单二维码](http://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2019banshan/final/book.jpg)
 
@@ -55,8 +55,9 @@ tags:
 联系邮箱：[goods@ustclug.org](goods@ustclug.org)
 
 附 1：投票结果
+
 |方案              | 票数| 比例  |   
-| :--:            | :--:| :--: |
+|----------------|-----|------|
 |方案一            | 23  | 8.5%  |
 |方案二 style 1    | 70  | 25.7% |                                             
 |方案二 style 2(A) | 45  | 16.5% |
@@ -67,5 +68,6 @@ tags:
 |2017             | 2   | 0.7%  |
 |2009             | 2   | 0.7%  |
 |2015             | 1   | 0.4%  |
+
 附 2: 尺码规格
 ![尺码规格](http://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2019banshan/final/size.jpg)
