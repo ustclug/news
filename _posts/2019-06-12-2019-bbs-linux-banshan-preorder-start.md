@@ -47,9 +47,9 @@ tags:
 - 按照投票人数估计，单件制作成本约为 50 元，如因预定数量提高，单件价格最终低于50元，则**结余资金将作为 USTCLUG 社团经费，并公开使用情况**；
 - 任何问题请及时通过 goods@ustclug.org 和我们联系，**预定截止后恕不接受退款**。
 
-**预定方式：点击链接 [https://www.wjx.cn/jq/41165916.aspx](https://www.wjx.cn/jq/41165916.aspx) 填写，或[扫描以下二维码](xx)预定。**
+**预定方式：点击链接 [https://www.wjx.cn/jq/41165916.aspx](https://www.wjx.cn/jq/41165916.aspx) 填写，或扫描以下二维码预定。**
 
-<img src="http://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2019banshan/final/book.jpg" width="50%" alt="表单二维码"/>
+<img src="http://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2019banshan/final/book.jpg" width="500" alt="表单二维码"/>
 
 如有其他问题欢迎邮件联系
 联系邮箱：[goods@ustclug.org](goods@ustclug.org)
