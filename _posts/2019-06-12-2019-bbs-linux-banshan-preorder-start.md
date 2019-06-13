@@ -49,17 +49,17 @@ tags:
 
 **预定方式：点击链接 [https://www.wjx.cn/jq/41165916.aspx](https://www.wjx.cn/jq/41165916.aspx) 填写，或扫描以下二维码预定。**
 
-<img src="http://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2019banshan/final/book.jpg" width="500" alt="表单二维码"/>
+<img src="http://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2019banshan/final/book.jpg" alt="表单二维码" style="width: unset;">
 
 如有其他问题欢迎邮件联系
-联系邮箱：[goods@ustclug.org](goods@ustclug.org)
+联系邮箱：[goods@ustclug.org](mailto:goods@ustclug.org)
 
 附 1：投票结果
 
-|方案              | 票数| 比例  |   
+|方案              | 票数| 比例  |
 |----------------|-----|------|
 |方案一            | 23  | 8.5%  |
-|方案二 style 1    | 70  | 25.7% |                                             
+|方案二 style 1    | 70  | 25.7% |
 |方案二 style 2(A) | 45  | 16.5% |
 |方案二 style 2(B) | 64  | 23.5% |
 |方案三            | 15  | 5.5%  |
