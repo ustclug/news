@@ -7,3 +7,6 @@ paginate_path: /page:num
 excerpt_separator: <!--more-->
 
 permalink: /:year/:month/:title/
+
+plugins:
+  - jekyll-feed
