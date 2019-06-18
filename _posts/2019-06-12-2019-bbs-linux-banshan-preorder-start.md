@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Linux 版衫预订开始
-image: http://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2019banshan/final/%E6%95%88%E6%9E%9C%E5%9B%BE2.png
+image: https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2019banshan/final/%E6%95%88%E6%9E%9C%E5%9B%BE2.png
 author: sirius1242
 date: '2019-06-12 20:31:06 +0800'
 categories:
