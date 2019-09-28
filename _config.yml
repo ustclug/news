@@ -10,3 +10,5 @@ permalink: /:year/:month/:title/
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  
