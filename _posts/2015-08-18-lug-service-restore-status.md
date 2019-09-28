@@ -20,7 +20,7 @@ comments: []
 
 LUG FTP 尚未正式恢复。如有迫切需求，请使用 `ftp://backup.ustclug.org`，使用方法与先前 LUG FTP 相同。
 
-9.3 补充：LUG FTP 现已回复。请使用`ftp://ftp.ustclug.org`。现在 LUG FTP 部署在 donut 机器上。
+9.3 补充：LUG FTP 现已回复。请使用`ftp://ftp.lug.ustc.edu.cn`。现在 LUG FTP 部署在 donut 机器上。
 
 ### freeshell.ustc.edu.cn
 

@@ -49,19 +49,19 @@ comments:
 
 晚7时，大会开始。会长张荣葳代表 Linux 用户协会热情欢迎到会的新会员。
 
-![张荣葳同学欢迎与会新会员](https://ftp.ustclug.org/wp-content/uploads/2014/10/kdtk_1.jpg)
+![张荣葳同学欢迎与会新会员](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2014/10/kdtk_1.jpg)
 
 副会长杨博远同学详尽介绍了社团的发展历史、活动概括以及技术成就。他有姿有味的讲解吸引了台下所有人的目光！
 
-![杨博远同学做讲解](https://ftp.ustclug.org/wp-content/uploads/2014/10/kdtk_2.jpg)
+![杨博远同学做讲解](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2014/10/kdtk_2.jpg)
 
 第三位登场的是分管技术的副会长崔灏同学。杨博远同学的介绍已经非常详尽了，没事做的崔灏同学就带着大家“参观”了一下由协会维护的各个站点和网络服务，包括科大开源镜像站、科大 Blog、图书馆查询机系统等。
 
-![副会长崔灏做讲解](https://ftp.ustclug.org/wp-content/uploads/2014/10/kdtk_3.jpg)
+![副会长崔灏做讲解](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2014/10/kdtk_3.jpg)
 
 接下来，会长张荣葳同学介绍了到场了的本届和往届协会负责人，其中包括：现任 CPO 张恒若、现任 CIO 尤淼、2013 届会长张光宇、2012 届会长李博杰。
 
-![前会长张光宇同学做自我介绍](https://ftp.ustclug.org/wp-content/uploads/2014/10/IMG_20140926_194829.jpg)
+![前会长张光宇同学做自我介绍](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2014/10/IMG_20140926_194829.jpg)
 
 大会现场气氛热烈，欢笑声不断，展现了 Linux 社区的和谐与快乐。
 

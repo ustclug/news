@@ -49,191 +49,191 @@ comments:
 
 这些是会场上的一些照片。（大家能否给我推荐个显示图片的插件？可以显示图片总数和当前图片编号的？）
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281991.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281991.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281936.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281936.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281930.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281930.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281963.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281963.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00502.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/dsc00502.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281964.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281964.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281940.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281940.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282084.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282084.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281939.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281939.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282082.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282082.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282113.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282113.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282104.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282104.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282077.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282077.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281943.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281943.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282063.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282063.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282121.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282121.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282147.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282147.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281992.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281992.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281865.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281865.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281959.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281959.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282041.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282041.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281961.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281961.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281974.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281974.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282093.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282093.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282071.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282071.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282008.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282008.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282102.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282102.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281956.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281956.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281932.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281932.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281886.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281886.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282074.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282074.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282112.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282112.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282066.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282066.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281978.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281978.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282081.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282081.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282148.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282148.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281949.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281949.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281955.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281955.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281917.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281917.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282052.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282052.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00450.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/dsc00450.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00474.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/dsc00474.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282143.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282143.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282083.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282083.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281864.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281864.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282078.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282078.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281996.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281996.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00454.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/dsc00454.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281860.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281860.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281989.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281989.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281951.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281951.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282072.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282072.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281970.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281970.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282006.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282006.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282140.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282140.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281895.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281895.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281847.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281847.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281832.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281832.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282133.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282133.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282059.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282059.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00452.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/dsc00452.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282137.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282137.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281891.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281891.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00491.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/dsc00491.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282080.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282080.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281931.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281931.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282111.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282111.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282134.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282134.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281929.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281929.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281954.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281954.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282033.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282033.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282062.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282062.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282087.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282087.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282144.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282144.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281881.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281881.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00448.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/dsc00448.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282098.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282098.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282089.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282089.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282061.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282061.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282068.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282068.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282067.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282067.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282146.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282146.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/dsc00498.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/dsc00498.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282138.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282138.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281965.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281965.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281934.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281934.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281987.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281987.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281928.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281928.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282064.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282064.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282120.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282120.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281933.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281933.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5282065.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5282065.jpg)
 
-![](https://ftp.ustclug.org/wp-content/gallery/deepin-linux-dau-2011/p5281866.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/gallery/deepin-linux-dau-2011/p5281866.jpg)
 
 # 相关报导
 

@@ -72,23 +72,23 @@ comments:
 投票总票数 = 158 票
 ```
 
-![（问卷星投票和BBS投票的总和）](https://ftp.ustclug.org/wp-content/uploads/2015/05/合集.png)
+![（问卷星投票和BBS投票的总和）](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/合集.png)
 
 # 2015 版衫效果图
 
 根据投票结果，今年的版衫采用方案三和方案四的组合，经过和商家、设计作者ewind的交流，最后的版衫设计稿是这样：
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-03.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/效果图-2-中科大-03.jpg)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-05.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/效果图-2-中科大-05.jpg)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-01.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/效果图-2-中科大-01.jpg)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-04.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/效果图-2-中科大-04.jpg)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/效果图-2-中科大-02.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/效果图-2-中科大-02.jpg)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/中科效果图-2-大-06.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/中科效果图-2-大-06.jpg)
 
 有两点需要注意：
 
@@ -122,7 +122,7 @@ comments:
 
 1、【颜色问题】我们一种有5种颜色！下图最右边有四种可选颜色
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/QQ图片20150529131345.png)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/QQ图片20150529131345.png)
 
 2、【快递问题】
 
@@ -130,9 +130,9 @@ A）如果你不在科大，可以在TEEKER网站预定时候，务必填上真�
 
 B）如果你在科大，在TEEKER网站预定时候，直接选 中科大Linux用户协会免费配送。那么你将无需登录，配送方式记得选【免费配送】。
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/QQ图片20150529120521.png)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/QQ图片20150529120521.png)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/QQ图片20150529120843.png)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/QQ图片20150529120843.png)
 
 3、【尺码问题】
 

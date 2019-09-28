@@ -23,25 +23,25 @@ BBS 投票页面联动：[点我前往](https://bbs.ustc.edu.cn/cgi/bbscon?bn=Li
 
 ## 候选方案展示
 
-版衫候选设计方案详细图片请见[LUG FTP 页面（https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/）](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/)。
+版衫候选设计方案详细图片请见[LUG FTP 页面（https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/）](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/)。
 
 ### 方案一：`Kernel Panic`
 
-![正面白色](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E7%99%BD%E8%89%B2.png)
+![正面白色](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E7%99%BD%E8%89%B2.png)
 
-![背面白色](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E7%99%BD%E8%89%B2.png)
+![背面白色](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E7%99%BD%E8%89%B2.png)
 
-![正面蓝色](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E8%93%9D%E8%89%B2.png)
+![正面蓝色](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E8%93%9D%E8%89%B2.png)
 
-![背面蓝色](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E8%93%9D%E8%89%B2.png)
+![背面蓝色](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E8%93%9D%E8%89%B2.png)
 
-![正面黑色](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E9%BB%91%E8%89%B2.png)
+![正面黑色](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E9%BB%91%E8%89%B2.png)
 
-![黑色背面](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E9%BB%91%E8%89%B2.png)
+![黑色背面](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E9%BB%91%E8%89%B2.png)
 
 ### 方案二：`Simple and Stupid`
 
-![正面图片](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate2/%E5%89%8D.png)
+![正面图片](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate2/%E5%89%8D.png)
 
 背面样式与方案一相同。
 

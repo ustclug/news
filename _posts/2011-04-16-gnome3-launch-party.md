@@ -35,7 +35,7 @@ comments:
 
 4月6日，已经连续多次跳票的Gnome 3终于在大家的翘首企盼中发布了，为了庆祝这件开源社区令人振奋的盛事。中国科大LUG(Linux User Group)特联合北京GUG(Gnome User Group)以及合肥LUG,联合举办Linux 技术沙龙暨Gnome 3发布活动。本次活动获得了中标软件公司的大力支持，并同时很荣幸的邀请到了北京Gnome用户组的李震宁主席参加。
 
-![海报](https://ftp.ustclug.org/wp-content/gallery/gnome3-launch-party_1/poster.jpg)
+![海报](https://ftp.lug.ustc.edu.cn/wp-content/gallery/gnome3-launch-party_1/poster.jpg)
 
 Linux技术沙龙是中国科学技术大学Linux用户协会定期举办的活动，主旨在于推广Linux技术 ，宣传和鼓励开源和自由软件精神。本次Linux技术沙龙主题是“探秘Gnome 3.0”。不了解Linux的人往 往以为Linux是一个很古板的东西，图形化界面很不美观，难以摆脱粗糙风格。“Gnome ”是一种Linux一种桌面环境，以往安装Linux的Gnome1.0与Gnome2.0环境界面，不支持多点触控，操作较为费力，对于习惯windows的用户来说，最不习惯的就是Gnome的单点操作。这次技术沙龙就是要把将宣传千呼万唤始出来的“Gnome 3.0”，也将Gnome 3.0带到同学们的身边。本次活动可以让同学们亲身体验到Gnome 3.0的华丽特效与便捷操作，同时获得Linux与Gnome的相关知识。
 
@@ -55,18 +55,18 @@ LUG的祝元宠同学给大家介绍并演示了Gnome 3.0环境。祝元宠同�
 
 下面是活动现场的一些照片:
 
-![合肥GUG（筹）成立](https://ftp.ustclug.org/wp-content/gallery/gnome3-launch-party/dscf2688.jpg)
+![合肥GUG（筹）成立](https://ftp.lug.ustc.edu.cn/wp-content/gallery/gnome3-launch-party/dscf2688.jpg)
 
-![王鹏会长主持本次活动](https://ftp.ustclug.org/wp-content/gallery/gnome3-launch-party/dscf2690.jpg)
+![王鹏会长主持本次活动](https://ftp.lug.ustc.edu.cn/wp-content/gallery/gnome3-launch-party/dscf2690.jpg)
 
-![李震宁主席做Gnome3发布主题报告](https://ftp.ustclug.org/wp-content/gallery/gnome3-launch-party/dscf2693.jpg)
+![李震宁主席做Gnome3发布主题报告](https://ftp.lug.ustc.edu.cn/wp-content/gallery/gnome3-launch-party/dscf2693.jpg)
 
-![活动现场气氛热烈](https://ftp.ustclug.org/wp-content/gallery/gnome3-launch-party/dscf2696.jpg)
+![活动现场气氛热烈](https://ftp.lug.ustc.edu.cn/wp-content/gallery/gnome3-launch-party/dscf2696.jpg)
 
-![祝元宠同学演示Gnome3新特性](https://ftp.ustclug.org/wp-content/gallery/gnome3-launch-party/dscf2698.jpg)
+![祝元宠同学演示Gnome3新特性](https://ftp.lug.ustc.edu.cn/wp-content/gallery/gnome3-launch-party/dscf2698.jpg)
 
-![张成同学介绍LUG服务器最新情况](https://ftp.ustclug.org/wp-content/gallery/gnome3-launch-party/dscf2704.jpg)
+![张成同学介绍LUG服务器最新情况](https://ftp.lug.ustc.edu.cn/wp-content/gallery/gnome3-launch-party/dscf2704.jpg)
 
-![赵希明同学为新手做报告](https://ftp.ustclug.org/wp-content/gallery/gnome3-launch-party/dscf2707.jpg)
+![赵希明同学为新手做报告](https://ftp.lug.ustc.edu.cn/wp-content/gallery/gnome3-launch-party/dscf2707.jpg)
 
-![活动结束后LUD](https://ftp.ustclug.org/wp-content/gallery/linux%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e6%9a%a8gnome-3-0%e5%8f%91%e5%b8%83%e6%b4%bb%e5%8a%a8/dscf2713_0.jpg)
+![活动结束后LUD](https://ftp.lug.ustc.edu.cn/wp-content/gallery/linux%e6%8a%80%e6%9c%af%e6%b2%99%e9%be%99%e6%9a%a8gnome-3-0%e5%8f%91%e5%b8%83%e6%b4%bb%e5%8a%a8/dscf2713_0.jpg)

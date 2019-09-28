@@ -111,8 +111,8 @@ LUG 博客：[方案整理](https://lug.ustc.edu.cn/blog/2015/05/2015-linux-user
 
 LUG主页banner：
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/09/banshan-banner.png)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/09/banshan-banner.png)
 
 BBS进版poster：
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/09/banshan-poster-1.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/09/banshan-poster-1.jpg)

@@ -55,14 +55,14 @@ LUG 邮箱： lug (at) ustc.edu.cn
 
 ### 设计图展示
 
-![](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E7%99%BD%E8%89%B2.png)
+![](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E7%99%BD%E8%89%B2.png)
 
-![](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E7%99%BD%E8%89%B2.png)
+![](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E7%99%BD%E8%89%B2.png)
 
-![](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E8%93%9D%E8%89%B2.png)
+![](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E8%93%9D%E8%89%B2.png)
 
-![](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E8%93%9D%E8%89%B2.png)
+![](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E8%93%9D%E8%89%B2.png)
 
-![](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E9%BB%91%E8%89%B2.png)
+![](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%89%8D-%E9%BB%91%E8%89%B2.png)
 
-![](https://ftp.ustclug.org/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E9%BB%91%E8%89%B2.png)
+![](https://ftp.lug.ustc.edu.cn/%E7%89%88%E8%A1%AB/2017banshan/voting/candidate1/%E5%90%8E-%E9%BB%91%E8%89%B2.png)

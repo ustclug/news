@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 服务器宕机通知
-image: https://ftp.ustclug.org/wp-content/uploads/2018-06-14-server-down.png
+image: https://ftp.lug.ustc.edu.cn/wp-content/uploads/2018-06-14-server-down.png
 author: hejiyan
 date: '2018-06-14 01:10:50 +0800'
 categories:
@@ -15,7 +15,7 @@ tags: []
 
 - 主页 (wiki)：[https://lug.ustc.edu.cn/](https://lug.ustc.edu.cn/) （已恢复）
 - 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/) （已恢复，建议用户切换新地址：git.lug.ustc.edu.cn）
-- LUG FTP：[https://ftp.ustclug.org/](https://ftp.ustclug.org/) （已恢复）
+- LUG FTP：[https://ftp.lug.ustc.edu.cn/](https://ftp.lug.ustc.edu.cn/) （已恢复）
 - 反向代理：*.proxy.ustclug.org （已恢复）
 
 如果您使用上述服务时遇到问题，请向我们反馈。
@@ -26,7 +26,7 @@ tags: []
 
 - 主页 (wiki)：[https://lug.ustc.edu.cn/](https://lug.ustc.edu.cn/) （已恢复）
 - 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/) （已恢复，建议用户切换新地址：git.lug.ustc.edu.cn）
-- LUG FTP：[https://ftp.ustclug.org/](https://ftp.ustclug.org/) （已恢复）
+- LUG FTP：[https://ftp.lug.ustc.edu.cn/](https://ftp.lug.ustc.edu.cn/) （已恢复）
 
 由于网络架构的变化，部分服务需要您的 DNS 缓存过期后得到新的解析结果才能生效，这依赖于您的网络环境，您也可以尝试手动刷新缓存。维护期间服务的稳定性有下降，这是正常现象，如果您在使用中持续遇到问题，请联系我们。
 
@@ -64,7 +64,7 @@ tags: []
 - 轻量级网络加速服务：[https://light.ustclug.org/](https://light.ustclug.org/)
 - 服务器统一认证：ldap.ustclug.org
 - 内网 VPN
-- LUG FTP：[https://ftp.ustclug.org/](https://ftp.ustclug.org/) （已恢复）
+- LUG FTP：[https://ftp.lug.ustc.edu.cn/](https://ftp.lug.ustc.edu.cn/) （已恢复）
 - Ganglia 监控：[https://status.ustclug.org/](https://status.ustclug.org/)
 - LDAP 配置管理系统（GOSA2）
 

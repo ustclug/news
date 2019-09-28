@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Linux 板版衫设计方案征集
-image: https://ftp.ustclug.org/~sirius/banshan.png
+image: https://ftp.lug.ustc.edu.cn/~sirius/banshan.png
 author: sirius1242
 date: '2019-04-06 21:15:06 +0800'
 categories:
@@ -43,4 +43,4 @@ tags:
 
 ## 参考
 
-[LUG 相关素材](https://ftp.ustclug.org/misc/)
+[LUG 相关素材](https://ftp.lug.ustc.edu.cn/misc/)

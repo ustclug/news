@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LUG LOGO 征集结果
-image: https://ftp.ustclug.org/~sirius/logo-two.png
+image: https://ftp.lug.ustc.edu.cn/~sirius/logo-two.png
 author: sirius1242
 date: '2018-09-08 21:10:26 +0800'
 categories:
@@ -29,10 +29,10 @@ tags: []
 
 在选出一等奖后，我们与获得一等奖的张盛宇先生进行了一系列关于 LOGO 细节修正的讨论，最后决定出了我们的 LOGO：
 
-|![LOGO](https://ftp.ustclug.org/misc/logo-origin.png)| ![LOGO-TEXT](https://ftp.ustclug.org/misc/logo-text-origin.png)|
+|![LOGO](https://ftp.lug.ustc.edu.cn/misc/logo-origin.png)| ![LOGO-TEXT](https://ftp.lug.ustc.edu.cn/misc/logo-text-origin.png)|
 |:---:|:---:|
 | 原版 | 带文字 |
 
-LOGO 下载地址：[logo.zip](https://ftp.ustclug.org/misc/logo.zip)
+LOGO 下载地址：[logo.zip](https://ftp.lug.ustc.edu.cn/misc/logo.zip)
 
 根据我们的奖励办法，获得上述奖项的同学将获得印有新 LOGO 的定制周边等奖品，新 LOGO 已经选出，周边等奖品正在制作中，请获得奖品的同学耐心等待，奖品制作出之后我们会联系大家。

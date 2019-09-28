@@ -55,7 +55,7 @@ comments:
 
 作者：zhaochi 图片：正面图
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/Mydesign.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/Mydesign.jpg)
 
 ## 方案二
 
@@ -63,37 +63,37 @@ comments:
 
 github commit style
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/0520-正面成品-sm.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/0520-正面成品-sm.jpg)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/0520-背面成品-sm.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/0520-背面成品-sm.jpg)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/0520正面图-sm.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/0520正面图-sm.jpg)
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/0520背面-sm.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/0520背面-sm.jpg)
 
 ## 方案三
 
 作者：ewind 图片：正面效果图
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-1-demo.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/scheme-1-demo.jpg)
 
 # 方案四
 
 作者：ewind 图片：背面效果图
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-4-demo.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/scheme-4-demo.jpg)
 
 # 方案五
 
 作者：ewind 图片：正面效果图
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-5-demo.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/scheme-5-demo.jpg)
 
 # 方案六
 
 作者：ewind 图片：背面效果图
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-3-demo.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/scheme-3-demo.jpg)
 
 编者注：这个背面图打印的面积比较大，可能需要3个版....
 
@@ -101,7 +101,7 @@ github commit style
 
 作者：ewind 图片：正面效果图
 
-![](https://ftp.ustclug.org/wp-content/uploads/2015/05/scheme-2-demo.jpg)
+![](https://ftp.lug.ustc.edu.cn/wp-content/uploads/2015/05/scheme-2-demo.jpg)
 
 # 投票链接
 
