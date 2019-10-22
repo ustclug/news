@@ -119,7 +119,7 @@ title: 财务报告
         },
         mounted: function () {
             let xmlHttp = getXMLHttpRequest();
-            xmlHttp.open('GET', 'https://ustclug.github.io/ledger/donates.txt');
+            xmlHttp.open('GET', 'https://pages.ustclug.org/ledger/donates.txt');
             xmlHttp.onreadystatechange = function() {
                 if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
                     app_donates.records = [];
@@ -145,7 +145,7 @@ title: 财务报告
         },
         mounted: function () {
             let xmlHttp = getXMLHttpRequest();
-            xmlHttp.open('GET', 'https://ustclug.github.io/ledger/servicefunds.txt');
+            xmlHttp.open('GET', 'https://pages.ustclug.org/ledger/servicefunds.txt');
             xmlHttp.onreadystatechange = function() {
                 if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
                     app_servicefunds.records = [];
@@ -167,7 +167,7 @@ title: 财务报告
         },
         mounted: function () {
             let xmlHttp = getXMLHttpRequest();
-            xmlHttp.open('GET', 'https://ustclug.github.io/ledger/generalfunds.txt');
+            xmlHttp.open('GET', 'https://pages.ustclug.org/ledger/generalfunds.txt');
             xmlHttp.onreadystatechange = function() {
                 if (xmlHttp.readyState === 4 && xmlHttp.status === 200) {
                     app_generalfunds.records = [];
