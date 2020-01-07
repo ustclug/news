@@ -8,11 +8,15 @@ categories:
 tags: []
 ---
 
+**2020-01-07 Update 3**
+
+代码托管平台 [https://git.lug.ustc.edu.cn/](https://git.lug.ustc.edu.cn/) 已恢复正常。
+
 **2020-01-07 Update 2**
 
 以下服务目前仍有问题，正在抢修中：
 
-- 代码托管平台：[https://git.ustclug.org/](https://git.ustclug.org/)
+- 代码托管平台：[https://git.lug.ustc.edu.cn/](https://git.lug.ustc.edu.cn/)
 
 
 目前正常的服务：
