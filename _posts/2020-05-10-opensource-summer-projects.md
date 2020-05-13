@@ -12,9 +12,11 @@ tags: ""
 
 <!--more-->
 
-此活动与 GSoC (Google Summer of Code) 的模式类似：开源项目/社区提供项目需求与导师 (mentor)；学生申请项目通过后利用暑期的时间进行开发，将成果贡献给社区；主办方（中科院软件所与 openEuler 社区）根据评估结果给学生发放奖金。
+此活动与 GSoC (Google Summer of Code) 的模式类似：开源项目/社区提供项目需求与导师 (mentor)；学生申请项目通过后利用暑期的时间进行开发，将成果贡献给社区；主办方（中科院软件所与 openEuler 社区）根据评估结果给学生发放奖金。所有参与的社区列表可查看 <https://isrc.iscas.ac.cn/summer2020/#/organisations>。
 
 今年夏天，USTCLUG (中科大学生 Linux 用户协会) 计划以社区身份加入此暑期活动。以下是我们计划的项目提案，也欢迎社团的各位同学提出建议。
+
+*本提案参考了清华大学 TUNA 协会（清华大学学生网络与开源软件协会）的[项目提案](https://tuna.moe/blog/2020/ospp-summer-2020/)，在此表示感谢。*
 
 **在 5 月 20 日前，此页面的内容会随时更新。**
 
@@ -28,7 +30,7 @@ tags: ""
 
 导师联系方式：<ibug@ustclug.org>
 
-合作导师联系方式：陶柯宇 \<<taoky@ustclug.org>\>
+合作导师联系方式：陶柯宇 <taoky@ustclug.org>
 
 项目产出要求：**以下要求不需要全部达到，选择感兴趣的方向即可**
 
@@ -94,8 +96,3 @@ tags: ""
 相关的开源软件仓库列表：
   - <https://github.com/ustclug/hackergame>
 
-## 其他社区的项目？
-
-清华大学 TUNA 协会（清华大学学生网络与开源软件协会）也同样[提供了一份项目提案](https://tuna.moe/blog/2020/ospp-summer-2020/)。
-
-如果你希望查看其他社区提供的项目，可以至 <https://isrc.iscas.ac.cn/summer2020/#/organisations> 选择你感兴趣的社区。
