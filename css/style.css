@@ -192,6 +192,10 @@ footer a:last-child {
     nav a { font-size: 1.3vw; }
     article h2 { font-size: 2vw; }
     article span { font-size: 1.3vw; }
-    article p { font-size: 1.3vw; }
+    /* article p { font-size: 1.3vw; } */
     footer { font-size: 1.3vw; }
+}
+
+ul li {
+    line-height: 1.6;
 }
