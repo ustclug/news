@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="zh-Hans">
- <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate:160 }}{% else %}{{ site.description }}{% endif %}" />
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-  <link rel="shortcut icon" href="{{ site.url }}/images/logo.png" />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml" />
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="{{ site.url }}/css/normalize.css" />
-  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/tables-min.css" />
-  <link rel="stylesheet" href="{{ site.url }}/css/style.css" />
- </head>
- <body>
-  <header>
-   <a href="{{ site.url }}/"><img src="{{ site.url }}/images/logo.png" alt="{{ site.title }}" /><span>中国科学技术大学 Linux 用户协会</span></a>
-  </header>
-  {{ content }}
- </body>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate:160 }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="canonical" href="{{ page.url | relative_url }}">
+    <link rel="shortcut icon" href="{{ "/images/logo.png" | relative_url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | relative_url }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ "/css/normalize.css" | relative_url }}">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/tables-min.css">
+    <link rel="stylesheet" href="{{ "/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    <header>
+      <a href="{{ "/" | relative_url }}"><img src="{{ "/images/logo.png" | relative_url }}" alt="{{ site.title }}" /><span>中国科学技术大学 Linux 用户协会</span></a>
+    </header>
+    {{ content }}
+  </body>
 </html>

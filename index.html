@@ -2,9 +2,10 @@
 layout: base
 title: 中国科学技术大学 Linux 用户协会
 ---
+
 {% if paginator.page == 1 %}
  <section id="top">
-  <a href="{{ site.url }}{{ site.posts[0].url }}" style="background-image:url('{{ site.posts[0].image }}')">
+  <a href="{{ site.posts[0].url }}" style="background-image: url('{{ site.posts[0].image | relative_url }}')">
    <p>
     <span class="small">最新动态</span>
     <span>{{ site.posts[0].title }}</span>
@@ -31,18 +32,18 @@ title: 中国科学技术大学 Linux 用户协会
 <section id="articles">
  {% for post in paginator.posts %}
   <article>
-   <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
    <span>{{ post.date | date:'%Y-%m-%d' }}</span>
-   <p>{{ post.excerpt | strip_html | truncate:350 }}</p>
+   <p>{{ post.excerpt | strip_html | truncate: 350 }}</p>
   </article>
  {% endfor %}
 </section>
 <footer>
  {% if paginator.previous_page %}
-  <a href="{{ site.url }}{{ paginator.previous_page_path }}"><i class="fa fa-chevron-left fa-lg" aria-hidden="true"></i>第 {{ paginator.previous_page }} 页</a>
+  <a href="{{ paginator.previous_page_path }}"><i class="fa fa-chevron-left fa-lg" aria-hidden="true"></i>第 {{ paginator.previous_page }} 页</a>
  {% endif %}
  <span>第 {{ paginator.page }} 页，共 {{ paginator.total_pages }} 页，{{ paginator.total_posts }} 篇文章</span>
  {% if paginator.next_page %}
-  <a href="{{ site.url }}{{ paginator.next_page_path }}">第 {{ paginator.next_page }} 页<i class="fa fa-chevron-right fa-lg" aria-hidden="true"></i></a>
+  <a href="{{ paginator.next_page_path }}">第 {{ paginator.next_page }} 页<i class="fa fa-chevron-right fa-lg" aria-hidden="true"></i></a>
  {% endif %}
 </footer>
