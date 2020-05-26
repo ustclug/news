@@ -8,6 +8,12 @@ categories:
 tags: []
 ---
 
+**2020-05-26 23:10 Update 1**
+
+`git.lug.ustc.edu.cn` 目前已经恢复。
+
+---
+
 近期 USTCLUG 的一部分网络服务出现中断，具体情况如下：
 
 - `*.proxy.ustclug.org`（开源软件反向代理）与 `servers.ustclug.org`（服务器新闻站）的校外访问，24 日晚由于服务器月流量超额而暂停，具体情况见 <https://github.com/ustclug/discussions/issues/325>。在 6 月份服务恢复后，我们将对反代服务进行调整。
