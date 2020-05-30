@@ -8,6 +8,10 @@ categories:
 tags: []
 ---
 
+**2020-05-30 16:15 Update 2**
+
+我们注意到 ESXi 主机再次出现了间歇性的网络问题。包括 `git.lug.ustc.edu.cn` 在内的服务受到影响。我们正在尝试排查问题。
+
 **2020-05-26 23:10 Update 1**
 
 `git.lug.ustc.edu.cn` 目前已经恢复。
