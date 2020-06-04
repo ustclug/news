@@ -18,7 +18,7 @@ tags: ""
 
 *本提案参考了清华大学 TUNA 协会（清华大学学生网络与开源软件协会）的[项目提案](https://tuna.moe/blog/2020/ospp-summer-2020/)，在此表示感谢。*
 
-**在 5 月 29 日前，此页面的内容会随时更新。**
+**在报名前，请先阅读由主办方提供的[学生指南](https://isrc.iscas.ac.cn/summer2020/help/student.html)。**
 
 # 科大镜像站前端架构改进
 
