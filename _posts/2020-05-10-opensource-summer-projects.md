@@ -179,4 +179,4 @@ License: 与指定修改的开源对象存储实现相同。
 - https://git.samba.org/?p=rsync.git (原版 rsync)
 - https://github.com/tuna/rsync (TUNA 实现的 rsync，缓存元数据在内存中以减少磁盘开销。科大镜像站目前亦使用此版本的 rsync 为下游提供服务。)
 
-License: 自定，[OSI 组织认证的开源协议](https://opensource.org/licenses)即可。
+License: 自定，[OSI 组织认证的开源协议](https://opensource.org/licenses)即可。注意：如果计划在完成项目时使用 rsync 的源代码，则协议需要使用 [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)。
