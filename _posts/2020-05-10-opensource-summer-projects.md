@@ -65,6 +65,8 @@ tags: ""
 - <https://git.lug.ustc.edu.cn/mirrors/mirrors-index>
 - <https://github.com/ustclug/yuki>
 
+License: [GNU GPLv2](https://git.lug.ustc.edu.cn/mirrors/mirrors-index/-/blob/master/LICENSE)
+
 # Hackergame CTF 比赛平台改进
 
 项目描述：Hackergame 是 USTCLUG 开发的一套开源 CTF 比赛平台，主要用于每年举办的[科大信息安全大赛](https://hack.lug.ustc.edu.cn/)，随真实需求不断进行技术迭代，并且重视生产环境下的安全性和可靠性。目前使用的是 Django + Vue.js 框架，但前后端解耦仍然不够充分，代码中写死了一些不合理的规则，很多地方缺少通用性和灵活性，测试和部署也不够方便。本项目希望能通过调整架构设计，重构部分代码，得到一个更加通用、健壮的比赛平台，让将来比赛中的实际需求更容易实现。
@@ -98,6 +100,8 @@ tags: ""
 
 相关的开源软件仓库列表：
   - <https://github.com/ustclug/hackergame>
+
+License: [MIT](https://github.com/ustclug/hackergame/blob/master/LICENSE)
 
 # 镜像站单副本对象存储
 
@@ -143,6 +147,8 @@ tags: ""
   - <https://rclone.org/> (S3 API fuse 实现)
   - <https://github.com/kahing/goofys/> (S3 API fuse 实现)
 
+License: 与指定修改的开源对象存储实现相同。
+
 # rsync 反向代理
 
 项目描述：
@@ -172,3 +178,5 @@ tags: ""
 相关的开源软件仓库列表：
 - https://git.samba.org/?p=rsync.git (原版 rsync)
 - https://github.com/tuna/rsync (TUNA 实现的 rsync，缓存元数据在内存中以减少磁盘开销。科大镜像站目前亦使用此版本的 rsync 为下游提供服务。)
+
+License: 自定，[OSI 组织认证的开源协议](https://opensource.org/licenses)即可。
