@@ -1,12 +1,18 @@
 ---
 layout: post
-title: 近期部分服务中断通知
+title: 近期部分服务中断通知（已修复）
 author: taoky
 date: '2020-05-26 23:00:00 +0800'
 categories:
 - LUG服务器
 tags: []
 ---
+
+**2020-06-05 10:27 Update 5**
+
+ESXi 主机所在网段网络不稳定的原因已经查明，与网段内 ARP 包相关。目前已经修复。
+
+此外，反向代理于 2 日进行了一些调整，详情见 <https://github.com/ustclug/discussions/issues/325#issuecomment-637319675>。
 
 **2020-05-31 22:45 Update 4**
 
